@@ -1,5 +1,5 @@
 Name:		python-xdis
-Version:	6.1.1
+Version:	6.1.2
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/x/xdis/xdis-%{version}.tar.gz
 Summary:	Python cross-version byte-code disassembler and marshal routines
